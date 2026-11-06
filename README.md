@@ -1,7 +1,7 @@
-# Konuyu Anla
+# Konuyu Anla · Test Sınavı
 
-Bilgisayar Mimarisi: kaynak PDF sayfa 13–78 için 133 soru ve açıklamalı cevap.
+Bilgisayar Mimarisi kaynak PDF sayfa 13–78 için 133 adet dört seçenekli soru. Her soruda kaynak sayfa numarası bulunur; kaynak sayfa başına en fazla üç soru vardır.
 
-Statik HTML/CSS/JavaScript. Sunucu veya derleme gerekmez. `index.html` açılarak kullanılabilir. GitHub Pages için main dalı / (root) seçilir.
+Sınav bitince doğru, yanlış, boş ve 100 üzerinden puan gösterilir. Yanlışlar doğruları götürmez; her soru eşit ağırlıktadır. Sonuç ekranında açıklamalı cevaplar açılır. Cevaplar tarayıcıda saklanır; JSON yedekleme desteklenir.
 
-Cevap taslakları ve kişisel değerlendirmeler yalnız ziyaretçinin tarayıcısında tutulur. Yedek alma/yükleme desteklenir. Otomatik puanlama yapılmaz.
+Statik HTML/CSS/JavaScript. GitHub Pages: main dalı / (root).
